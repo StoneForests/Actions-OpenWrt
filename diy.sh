@@ -11,4 +11,4 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/l
 git clone https://github.com/Leo-Jo/luci-app-koolproxyR package/luci-app-koolproxyR
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-OpenClash
-git clone https://github.com/pymumu/smartdns.git package/smartdns
+# git clone https://github.com/pymumu/smartdns.git package/smartdns
